@@ -2,8 +2,8 @@ import ntptime
 import network
 
 def connect_wifi():
-    WIFI_SSID = "Berlin"
-    WIFI_PW = "probeeins"
+    WIFI_SSID = "xxxxxxx"
+    WIFI_PW = "xxxxxxxxxxx"
 
     wlan = network.WLAN(network.STA_IF)
 
